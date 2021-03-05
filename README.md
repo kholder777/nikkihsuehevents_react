@@ -1,3 +1,27 @@
+# NikkiHsuehEvents
+Wedding and event planning done by Nikki Hsueh.
+## Description
+I'm creating a basic React website for NikkiHEvents.
+This will be 3-5 pages including: Homepage, About Me, Services, Testimonials, & Contact.
+Each page will have a header and footer.
+Header will have links to each page.
+Footer will contain photo credits, copyright, and icons linking to the company's Instagram & Facebook.
+
+Homepage:
+Company name and logo overlaying a wedding photo.
+
+About Me:
+Portrait of Nikki Hsueh next to her story of becoming an ambitious wedding/event planner.
+
+Services:
+Photo of floral arrangement. Script to include services available.
+
+Testimonials:
+Currently three testimonials, each will have its own display with an arrow on each side, so the user may cycle through them at their own speed. bullets will be at the lower section to show how many testimonials there are, and which they are currently on.
+
+Contact:
+This will have a form for the user to fill out. It will include: Name, Email, Subject, Message, and a Submit button below.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
